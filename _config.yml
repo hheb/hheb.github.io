@@ -5,7 +5,7 @@ description: PhD researcher | Cologne Center for Comparative Politics
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: heberer@wiso.uni-koeln.de
 
 # Pagination
 paginate: 4
@@ -13,10 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-github: "#"
-orcid: "#"
+twitter: "https://twitter.com/hebsiesie"
+linkedin: "https://www.linkedin.com/in/helena-heberer-31b443184/"
+github: "https://github.com/hheb"
+orcid: "https://orcid.org/0000-0002-1086-1758"
 
 # Markdown
 highlighter: rouge
