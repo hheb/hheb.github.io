@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hi there! 
+### Hi there! 
 
 I'm Helena. I'm a doctoral researcher at the University of Cologne. My research focuses on women and political leadership, gender and power dynamics in political institutions, and political representation and communication. I am also interested in computational methods, such as applications for machine learning and natural language processing methods in the social sciences. My supervisor is Chitralekha Basu.
 
