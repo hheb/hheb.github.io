@@ -21,4 +21,4 @@ A non-exhaustive list of my ongoing research.
 
 ### Teaching
 
-In the 2023 summer term, I am teaching research design and logic at the B.A. level. I am also happy to supervise bachelor and master theses in the fields of women in politics, democratic representation, political communication, and other adjecent fields. If you are interested in being supervised by me, do reach out to me via my <a href="mailto:heberer@wiso.uni-koeln.de" target="_blank" rel="noopener noreferrer">university email</a>.
+In the 2023 summer term, I am teaching research design and logic at the B.A. level. I am also happy to supervise bachelor and master theses in the fields of women in politics, democratic representation, political communication, and other adjecent fields. If you are interested in being supervised by me, do reach out via my <a href="mailto:heberer@wiso.uni-koeln.de" target="_blank" rel="noopener noreferrer">university email</a>.
