@@ -13,10 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/hebsiesie"
-linkedin: "https://www.linkedin.com/in/helena-heberer-31b443184/"
-github: "https://github.com/hheb"
-orcid: "https://orcid.org/0000-0002-1086-1758"
+twitter: "hebsiesie"
+linkedin: "helena-heberer-31b443184/"
+github: "hheb"
+orcid: "0000-0002-1086-1758"
 
 # Markdown
 highlighter: rouge
